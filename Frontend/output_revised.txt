@@ -1,2 +1,0 @@
-investmentserviceFunctionalShouldGetAllInvestments=true
-investmentserviceFunctionalShouldCreateANewInvestment=true
